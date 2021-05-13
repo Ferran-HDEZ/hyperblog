@@ -6,4 +6,6 @@ Ferran tiene 13 años y nacio en México,
 
  Hoy hablaremos de su historia,
 
- en la camara parece bajo pero la verdad es alto.
+ En la camara parece bajo pero la verdad es alto.
+ 
+ Hoy esta en 2do de Secundaria.
